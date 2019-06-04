@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeCoreyWebApi", "TimeCoreyWebApi\TimeCoreyWebApi.csproj", "{4886214B-835C-4ABE-A494-32CEBFC9488B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4886214B-835C-4ABE-A494-32CEBFC9488B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4886214B-835C-4ABE-A494-32CEBFC9488B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4886214B-835C-4ABE-A494-32CEBFC9488B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4886214B-835C-4ABE-A494-32CEBFC9488B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AE3292A-117F-44B1-9514-813AC5D09353}
+	EndGlobalSection
+EndGlobal
